@@ -1,6 +1,6 @@
-# Porfolio-Website-01
+# Sandra Lavenda's Portfolio 
 
-# Sandra Lavenda's Portfolio - Portfolio Website 01
+# Portfolio Website 01
 
 This is my programming portfolio that details my past and present projects. 
 
